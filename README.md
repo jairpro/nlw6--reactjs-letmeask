@@ -32,3 +32,9 @@ yarn create react-app letmeask --template typesript
 [Fauna](https://fauna.com/)
 
 [Supabase - The Open Source Firebase Alternative](https://supabase.io/)
+
+## Deploy
+
+[Create React App - Deployment to Firebase](https://create-react-app.dev/docs/deployment/#firebase)
+
+[GitHub Actions - Variáveis de ambiente](https://docs.github.com/pt/actions/reference/environment-variables)
